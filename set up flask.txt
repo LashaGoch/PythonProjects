@@ -1,0 +1,23 @@
+1. Change directory by cd and address
+2. set env:
+C:\Users\Lasha\Desktop\Project>py -m venv env
+
+when you open project first time start from here:
+3. Activate env\Scripts
+C:\Users\Lasha\Desktop\Project>env\Scripts\activate
+
+4. install flask
+(env) C:\Users\Lasha\Desktop\Project>pip install flask
+
+5. clean command prompts by typting cls
+cmd
+6. set your app.py file in command
+(env) C:\Users\Lasha\Desktop\Project>set PROJECT=app.py
+
+7. Activate Debugger 
+(env) C:\Users\Lasha\Desktop\Project>python app.py
+
+8. run flask
+(env) C:\Users\Lasha\Desktop\Project>flask run
+
+
